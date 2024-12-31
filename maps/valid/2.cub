@@ -1,0 +1,13 @@
+NO ./textures/bricks.xpm
+SO ./textures/glass.xpm
+WE ./textures/rocks.xpm
+EA ./textures/bookshelf.xpm
+
+F 220,100,0
+C 225,30,0
+
+1111111111
+1000000001
+1001111101
+100000N001
+1111111111
